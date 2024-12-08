@@ -1,0 +1,1 @@
+# Verus_miner_setup.sh
